@@ -118,4 +118,4 @@ The architecture is based on a wrapped structure, where:
 - **Maintenance Costs:** Servers, potential fees for external services, technical support.
 
 ---
-[Polish](READMEPL.md)
+[Polish](Docs/READMEPL.md)

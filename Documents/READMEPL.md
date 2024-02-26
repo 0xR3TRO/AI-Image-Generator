@@ -118,4 +118,4 @@ Architektura oparta jest na strukturze opakowanej, gdzie:
 - **Koszty utrzymania:** Serwery, ewentualne opłaty za usługi zewnętrzne, wsparcie techniczne.
 
 ---
-[English](README.md)
+[English](/README.md)
